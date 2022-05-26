@@ -1,0 +1,6 @@
+Spring,D1_ecoli,D1_coliforms,D1_visitors,D1_weather,D1_waterTemp,D1_rain,D2_ecoli,D2_coliforms,D2_visitors,D2_weather,D2_waterTemp,D2_rain,D3_ecoli,D3_coliforms,D3_visitors,D3_weather,D3_waterTemp,D3_rain,total_ecoli,total_coliforms,total_visitors,average_waterTemp,total_rain
+Spring1,0,59,0,1,27,1,0,99,0,2,28,1,0,34,0,2,28,0,0,575,0,27.66666667,2
+Spring2,2,57,5,3,28,0,1,50,1,2,29,1,1,21,0,2,29,0,7,383,6,28.66666667,1
+Spring3,1,6,32,3,20,0,1,6,71,2,20,1,1,2,10,2,20,0,3,40,113,20,1
+Spring4,2,39,13,3,27,0,5,64,2,2,28,1,1,35,2,2,28,0,27,411,17,27.66666667,1
+Spring5,0,0,3,3,22,0,0,0,1,2,20,1,0,1,1,2,20,0,0,1,5,20.66666667,1
